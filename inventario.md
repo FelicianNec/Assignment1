@@ -2,3 +2,4 @@
 2111947<br>
 
 Processori: processori.md
+Schede madri: schede_madri.md
