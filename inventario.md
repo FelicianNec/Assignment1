@@ -7,4 +7,5 @@ Schede madri: schede_madri.md<br>
 
 PERIFERICHE<br>
 Tastiere: tastiere.md<br>
+Mouse: mouse.md<br>
 Elettronica Padovana
